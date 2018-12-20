@@ -1,0 +1,20 @@
+{
+  "name": "synthea-module-load",
+  "version": "1.0.0",
+  "description": "Module loader for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "synthea-loader"
+  ],
+  "author": "Ramindu Deshapriya <rdeshapriya@virtusa.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mongodb": "^3.1.8",
+    "walk": "^2.3.14"
+  }
+}
