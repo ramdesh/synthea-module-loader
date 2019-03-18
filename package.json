@@ -13,8 +13,9 @@
   "author": "Ramindu Deshapriya <rdeshapriya@virtusa.com>",
   "license": "MIT",
   "dependencies": {
+    "assert": "^1.4.1",
     "fs": "0.0.1-security",
-    "mongodb": "^3.1.8",
+    "mongodb": "^3.1.13",
     "walk": "^2.3.14"
   }
 }
